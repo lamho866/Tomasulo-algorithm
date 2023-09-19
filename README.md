@@ -8,7 +8,6 @@ g++ -std=c++11 Tomasulo_algorithm.cpp -o Tomasulo_algorithm.exe
 ```
 
 Execution:
-T仁
 ```
 Tomasulo_algorithm.exe
 ```
