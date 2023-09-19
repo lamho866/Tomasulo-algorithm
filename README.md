@@ -1,5 +1,5 @@
 # Tomasulo's algorithm Project
-如果有學弟妹看見，內容只供參考
+如果有學弟妹看見，內容只供參考 <br />
 Wiki: https://en.wikipedia.org/wiki/Tomasulo%27s_algorithm
 
 Compile Code:
