@@ -47,5 +47,6 @@ BUFFER: (RS1) 6 + 24
 BUFFER:   
 ```
 
-inFile.txt是存放Command
-目前只有ADDI, ADD, SUB, MUL, DIV
+inFile.txt是存放Command <br />
+目前只有ADDI, ADD, SUB, MUL, DIV <br />
+所有值預設是0
